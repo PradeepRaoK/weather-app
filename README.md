@@ -18,4 +18,4 @@ Conditional Rendering: Display a loading indicator or message to the user while 
 Data Persistence: Save the last searched city name in the local storage of the device and display its weather information when the app is relaunched.
 
 ## Screenshot:
-![WhatsApp Image 2023-05-27 at 8 33 46 PM](https://github.com/PradeepRaoK/weather-app/assets/88186518/eb9cacb5-a528-493a-ba41-e52d50ad0335)
+![image](https://github.com/PradeepRaoK/weather-app/assets/88186518/07a5ac54-1a84-42fd-a6a3-30e7657f8bf0)
